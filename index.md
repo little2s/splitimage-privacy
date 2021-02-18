@@ -1,4 +1,5 @@
 ## “Splitimage”隐私政策
+[English Edition](https://little2s.github.io/splitimage-privacy/en.html)
 
 更新日期：2021年2月18日
 
