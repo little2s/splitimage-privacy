@@ -11,7 +11,7 @@ This policy applies to "Splitimage" software and related services.
 
 #### 1. The personal information we collect from you and its purpose
 
-Photo metadata (Metadata). Metadata is usually information data related to user-generated content. We obtain and show you the metadata stored in the photo, such as the resolution of the image, shooting time, shooting equipment and geographic location, etc., so that you can understand the information stored in the photo. You can choose to retain the image after segmentation or downsampling Or erase these data to maintain your copyright or privacy. If you choose to keep the photo metadata, the photo metadata will only be stored in the split photo, and the app will not additionally store the metadata in your photo. We will overwrite the "Software" field of TIFF in the exported image metadata, marking that the image is processed by "Splitimage".
+Photo metadata. Metadata is usually information data related to user-generated content. We obtain and show you the metadata stored in the photo, such as the resolution of the image, shooting time, shooting equipment and geographic location, etc., so that you can understand the information stored in the photo. You can choose to retain these data to maintain your copyright or erase these data for privacy. If you choose to keep the photo metadata, the photo metadata will only be stored in the split photo, and the app will not additionally store the metadata in your photo. We will overwrite the "Software" field of TIFF in the exported image metadata, marking that the image is processed by "Splitimage".
 
 #### 2. Your device permissions we may need to obtain
 
